@@ -1,4 +1,4 @@
-![yay](https://raw.githubusercontent.com/urbanisierung/urbanisierung/master/that-was-more-work-than-i-thought.svg)
+
 
 Hi there, I'm Samujjwaal 👋🏼👨🏻‍💻
 Gmail Badge Linkedin Badge Telegram Badge Twitter Badge Messenger Badge
