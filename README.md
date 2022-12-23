@@ -1,3 +1,5 @@
+![yay](https://raw.githubusercontent.com/urbanisierung/urbanisierung/master/that-was-more-work-than-i-thought.svg)
+
 ## Hi there, I'm Samujjwaal 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sdey9@uic.edu "Connect via Email")
