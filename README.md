@@ -9,7 +9,7 @@
 
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
+<a href="https://samujjwaal.tech/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="200" /></a>
 
 A software engineer who is curious to learn about technologies and deal with different cultures and mindsets so she can come up with creative solutions .
 
