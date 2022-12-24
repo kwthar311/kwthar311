@@ -13,7 +13,8 @@
 
 A software engineer who is curious to learn about technologies and deal with different cultures and mindsets so she can come up with creative solutions .
 
-- 🌱 I’m currently learning [Angular](https://egfwd.com/), integration with .net technology and other technologies in the field of       the web
+- 🌱 I’m currently learning [Angular](https://egfwd.com/), integration with .net technology and other technologies in the 
+     field of the web
 - 👯 I’m looking to collaborate on any big projects which seems interesting or useful
 - 💬 I think everyone has some information that I can learn from him
 - 📫 How to reach me: Use any of the [badges](#hi-there-im-Kawthar-) above
