@@ -2,10 +2,10 @@
 
 ## Hi there, I'm Kawthar 👋🏼👨🏻‍💻
 
-[![Gmail Badge](https://img.shields.io/badge/-gmail.com ?style=flat&logo=Gmail&logoColor=white)](kwtharmohammed@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/linkedin.com?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kawthar-mohamed/ "Connect on LinkedIn")
-[![Telegram Badge](https://img.shields.io/badge/-telegram.com?style=flat&logo=Telegram&logoColor=white)](https://t.me/K_Scorpion311 "Contact on Telegram")
-[![Twitter Badge](https://img.shields.io/badge/-twitter.com?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Kwthar73731919 "Follow on Twitter")
+[![Gmail Badge](<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">)](kwtharmohammed@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kawthar-mohamed/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/K_Scorpion311 "Contact on Telegram")
+[![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/Kwthar73731919 "Follow on Twitter")
 <!-- [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook") -->
 
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
